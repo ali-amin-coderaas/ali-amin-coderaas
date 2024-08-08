@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ali Amin</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=substro&label=Profile%20views&color=0e75b6&style=flat" alt="substro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-amin-coderaas&label=Profile%20views&color=0e75b6&style=flat" alt="substro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=substro" alt="substro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-amin-coderaas" alt="substro" /></a> </p>
 
 - 🌱 I’m currently learning **React & Node**
 
@@ -22,6 +22,6 @@
 <h3 align="left">Support:</h3>
 <p align="left"><a href="https://www.buymeacoffee.com/substro"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="substro" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=substro&show_icons=true&locale=en&layout=compact" alt="substro" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-amin-coderaas&show_icons=true&locale=en&layout=compact" alt="substro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=substro&show_icons=true&locale=en" alt="substro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali-amin-coderaas&show_icons=true&locale=en" alt="substro" /></p>
